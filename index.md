@@ -12,4 +12,4 @@ More details about the workshop [About page](about)
 
 ## Contact us 
 
-Email: {{ site.email }}
+Email:{{ site.email }}
