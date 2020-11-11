@@ -46,4 +46,18 @@ print(s)
     <a href=https://carpentries.org/>This is a link</a>
 </body>
 </html>
+
 ```
+
+
+[The Carpetries](https://carpentries.org/)
+
+[carpentries-tag]: https://carpentries.org
+
+I would like to use [this site][carpentries-tag]
+
+
+Example links:
+1. [Inline link](https://carpentries.org/)
+2. [Reference link][carpentries-tag]
+
