@@ -26,7 +26,24 @@ use `print` to print a statement
 
 You can reference code `message='Hello World'` or commands `git status` inside text.
 Larger code snippets look like this:
-```
+```python
 print('Hello World')
 
+```
+
+```R
+print(paste("How", "are", "you"), quote = FALSE)
+```
+```python
+s = "How are you?"
+print(s)
+```
+
+```html
+<!DOCTYPE html>
+<html>
+  <body>
+    <a href=https://carpentries.org/>This is a link</a>
+</body>
+</html>
 ```
